@@ -1,0 +1,21 @@
+
+*{
+  margin:0;
+  padding: 0;
+
+}
+
+.master-main {
+   display: flex;
+   justify-content: space-around;
+  
+}
+.master-btn {
+   display: flex;
+   background-color: transparent;
+}
+
+.branc {
+  margin-left: 20px;
+  padding-top:10px
+}
